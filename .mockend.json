@@ -1,6 +1,6 @@
 {
   "State": {
-    "action": "boolean",
+    "action": "terminate",
     "time": "date"
   }
 }

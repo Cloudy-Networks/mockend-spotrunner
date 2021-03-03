@@ -1,4 +1,5 @@
 {
-  "States": {
-    "action": "boolean"
+  "State": {
+    "action": "boolean" 
+  }
 }
